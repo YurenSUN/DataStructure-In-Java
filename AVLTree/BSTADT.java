@@ -1,4 +1,3 @@
-// DO NOT EDIT THIS INTERFACE IN ANY WAY -- DO NOT SUBMIT
 /**
  * Defines the additional operations required of student's BST class.
  * 
