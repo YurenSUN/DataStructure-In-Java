@@ -1,12 +1,3 @@
-////////////////// File Header////////////////////
-// Course: CS400 Lecture 001
-// Assignment Name: p2
-// Author: Yuren Sun
-// Email: ysun299@wisc.edu
-// Due date: Feb 21
-// Other source credits: N/A
-/////////////////////////////////////////////////
-
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 import java.util.List;
