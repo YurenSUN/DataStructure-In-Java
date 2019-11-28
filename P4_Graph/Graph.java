@@ -1,13 +1,3 @@
-////////////////// File Header////////////////////
-// Course: CS400 Lecture 001
-// Assignment Name: p4
-// Filename: Graph.java
-// Author: Yuren Sun
-// Email: ysun299@wisc.edu
-// Due date: April 19
-// Other source credits: N/A
-/////////////////////////////////////////////////
-
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
