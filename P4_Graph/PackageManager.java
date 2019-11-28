@@ -1,14 +1,3 @@
-
-////////////////// File Header////////////////////
-// Course: CS400 Lecture 001
-// Assignment Name: p4
-// Filename: PackageManager.java
-// Author: Yuren Sun
-// Email: ysun299@wisc.edu
-// Due date: April 19
-// Other source credits: N/A
-/////////////////////////////////////////////////
-
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
