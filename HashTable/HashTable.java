@@ -1,17 +1,3 @@
-////////////////// File Header////////////////////
-// Course: CS400 Lecture 001
-// Assignment Name: p3b
-// Author: Yuren Sun
-// Email: ysun299@wisc.edu
-// Due date: March 28
-// Other source credits: N/A
-//  Bugs: none
-/////////////////////////////////////////////////
-
-// describe the collision resolution scheme you have chosen
-// identify your scheme as open addressing or bucket
-// explain your hashing algorithm here:
-
 /*
  * I used the "Chained" buckets, which are linked nodes (5 CHAINED BUCKET: array of linked nodes)
  * I created LinkedNode inner class for my HashTable class. 
