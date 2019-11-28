@@ -1,12 +1,3 @@
-////////////////// File Header////////////////////
-// Course: CS400 Lecture 001
-// Assignment Name: p2
-// Author: Yuren Sun
-// Email: ysun299@wisc.edu
-// Due date: Feb 21
-// Other source credits: N/A
-/////////////////////////////////////////////////
-
 import java.util.ArrayList; // allowed for creating traversal lists
 import java.util.LinkedList;
 import java.util.List; // required for returning List<K>
