@@ -1,12 +1,3 @@
-
-// Course:                   CS400 Lecture 001
-// Assignment Name           p1
-// Author:                   Yuren Sun
-// Email:                    ysun299@wisc.edu
-// Due date:                 Feb 7 
-// Other source credits:     N/A
-
-
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
